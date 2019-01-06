@@ -2,4 +2,5 @@
     <string name="app_name">ProjetEnseirb</string>
 
     <string name="quotedesc">Welcome!</string>
+    <string name="google_maps_key" >AIzaSyBB1FGd2H_ya8w4IK-nYo6dlmIJwgXpWO4</string>
 </resources>
